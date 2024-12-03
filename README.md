@@ -5,7 +5,7 @@ The **Laser Shooter Game** is a Unity project showcasing an advanced weapon syst
 
 ---
 ## video demo game
-[!]()
+[!](https://github.com/VGD-TEAM/Weekly_3a/blob/main/Recording%20shooter%20game.mp4)
 ---
 
 ## Features
